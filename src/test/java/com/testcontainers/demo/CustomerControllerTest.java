@@ -4,7 +4,6 @@ import com.testcontainers.demo.entity.Customer;
 import com.testcontainers.demo.repository.CustomerRepository;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
-import org.aspectj.lang.annotation.Before;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
